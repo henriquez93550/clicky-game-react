@@ -1,9 +1,10 @@
 ### Clicky React Game!
 A memory game created using React. The rules are simple. Click on a picture but dont click it twice or else you'll lose. How long can you last in this exciting clicking action game. 
+https://henriquez93550.github.io/clicky-game-react/
 
 ![screen shot 2019-01-19 at 1 29 34 pm](https://user-images.githubusercontent.com/41456612/51431947-b6d72000-1bf5-11e9-978d-14792f5d43bf.png)
 
-https://henriquez93550.github.io/clicky-game-react/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
