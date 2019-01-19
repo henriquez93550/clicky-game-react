@@ -1,21 +1,21 @@
 .title {
   width: 100%;
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: 50px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   padding: 50px;
+  
 }
 .panel-body {
   text-align: center;
   margin-top: 40px;
+  color: black;
+  text-shadow: -1px 0 whitesmoke, 0 2px whitesmoke, 2px 0 whitesmoke, 0 -1px whitesmoke;
 }
 
 .col-md-4 {
   text-align: center;
+  
 }
 
-
-.panel-heading {
-  padding-top: 50px;
-}
