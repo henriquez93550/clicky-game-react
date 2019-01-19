@@ -1,4 +1,4 @@
-
+![screen shot 2019-01-19 at 1 29 34 pm](https://user-images.githubusercontent.com/41456612/51431947-b6d72000-1bf5-11e9-978d-14792f5d43bf.png)
 
 https://henriquez93550.github.io/clicky-game-react/
 
